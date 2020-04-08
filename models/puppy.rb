@@ -9,12 +9,5 @@ class Puppy
     @breed = breed
       end   
   
-  def self.breed(breed)
-    "#{breed}"
-  end   
-  
-  def self.age(age)
-    "#{age} months"
-  end     
-  
+ 
 end   
