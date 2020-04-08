@@ -12,5 +12,9 @@ class Puppy
     @@all << self
   end   
   
+  def self.breed(breed)
+    @breed
+  end   
+  
   
 end   
